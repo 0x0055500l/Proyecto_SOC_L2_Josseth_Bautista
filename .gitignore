@@ -1,0 +1,17 @@
+/*
+!/.gitignore
+!/README.md
+!/Aplicacion/
+/Aplicacion/*
+!/Aplicacion/README.md
+!/Aplicacion/serve.py
+!/Aplicacion/dist/
+!/Aplicacion/tests/
+/Aplicacion/dist/data/
+/Aplicacion/tests/fixtures/*.json
+**/__pycache__/
+*.pyc
+node_modules/
+.venv/
+.env
+.env.*
